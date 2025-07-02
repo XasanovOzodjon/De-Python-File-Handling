@@ -1,0 +1,6 @@
+ism: Name, baho: Grade
+ism: Ali, baho: 4
+ism: Malika, baho: 5
+ism: Sardor, baho: 3
+ism: Nigora, baho: 5
+ism: Bekzod, baho: 4
